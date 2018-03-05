@@ -1,0 +1,1 @@
+# wutang-name-generator
