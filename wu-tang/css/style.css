@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background-color: #f2f2f2
+}
+h1{
+  font-family: 'Bowlby One SC', cursive;
+  color: orange;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #404040;
+  padding: 0px 0 20px 0;
+}
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #404040;
+}
+#container{
+  margin: 0 0;
+}
+#submit{
+  background-color: orange;
+  color: #404040;
+  width: 7%;
+  height: 24px;
+  font-size: 15px;
+  margin: 25px 0;
+}
+label{
+  color: #666666;
+}
