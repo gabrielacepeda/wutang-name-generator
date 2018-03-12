@@ -1,4 +1,6 @@
 # wutang-name-generator
+This app generates a unique wu-tang clan name after answering 5 survey questions.
+
 
 
 
