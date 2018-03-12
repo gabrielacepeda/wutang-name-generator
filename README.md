@@ -17,7 +17,7 @@ I am still working out some kinks in this app. The questions included in the sur
 
 ## Lessons Learned:
 
-Relying on back-end applications such as Node.js and Express to make an app functional was new to me.
+Relying on back-end frameworks such as Node.js and Express to make an app functional was new to me.
 
 ## Installation
 
